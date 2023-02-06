@@ -3,9 +3,9 @@
 <p align="center">
   <img src="https://kitajs.org/assets/social-preview.png" alt="Kita logo">
   <br/><br/>
-  Kita is a semi-opinionated fastify based typescript framework &mdash;
+  Performant and type safe fastify router &mdash;
   <br/>
-  NO RUNTIME CODE = blazingly fast ⚡⚡
+  Build **REST** apis with end-to-end safety with **ZERO** abtractions cost!
   <br/><br/>
 </p>
 
