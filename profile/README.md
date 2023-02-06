@@ -5,7 +5,7 @@
   <br/><br/>
   Performant and type safe fastify router &mdash;
   <br/>
-  Build **REST** apis with end-to-end safety with **ZERO** abtractions cost!
+  Build <b>REST</b> apis with end-to-end safety with <b>ZERO</b> abtractions cost!
   <br/><br/>
 </p>
 
