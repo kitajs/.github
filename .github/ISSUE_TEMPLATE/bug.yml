@@ -7,11 +7,11 @@ body:
     attributes:
       label: Prerequisites
       options:
-      - label: I have written a descriptive issue title
-        required: true
-      - label: | 
-          I have searched existing issues to ensure the bug has not already been reported
-        required: true
+        - label: I have written a descriptive issue title
+          required: true
+        - label: |
+            I have searched existing issues to ensure the bug has not already been reported
+          required: true
 
   - type: textarea
     id: versions
