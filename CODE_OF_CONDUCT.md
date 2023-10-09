@@ -57,7 +57,7 @@ events.
 ## Reporting and Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior should be reported to
-the community leaders responsible for enforcement at [INSERT CONTACT METHOD]. All
+the community leaders responsible for enforcement at [github@arthur.place](mailto:github@arthur.place). All
 complaints will be reviewed and investigated promptly and fairly.
 
 Community leaders are obligated to respect the privacy and security of reporters of any
