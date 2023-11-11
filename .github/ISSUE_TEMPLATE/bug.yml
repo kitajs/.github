@@ -20,6 +20,21 @@ body:
       description: Please list all relevant versions numbers below.
     validations:
       required: true
+      
+  - type: input
+    id: mre
+    attributes:
+      label: A minimal reproducible example
+      placeholder: https://github.com/my-username/bug-example-that-im-reporting
+      description: |
+        ⚠️ Issues opened without a minimal reproducible example are going to be treated with low priority.
+
+        A repository URL containing a reproducible example that will help out contributors to reproduce your
+        bug in an attempt to find where the problem is.
+
+        https://stackoverflow.com/help/minimal-reproducible-example.
+    validations:
+      required: true
 
   - type: textarea
     id: description
