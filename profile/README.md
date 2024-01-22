@@ -5,7 +5,7 @@
   <br/><br/>
   Performant and type safe fastify router &mdash;
   <br/>
-  Build fast end-to-end <b>APIs</b> with <b>ZERO</b> abtraction cost!
+  Build fast end-to-end <b>APIs</b> with <b>ZERO</b> abstraction cost!
   <br/><br/>
 </p>
 
