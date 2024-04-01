@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the <a href="https://kitajs.org">Kita</a> community!</h1>
+<h1 align="center">Welcome to the <a href="https://kita.js.org">Kita</a> community!</h1>
 <br/>
 <p align="center">
   <img src="https://kita.js.org/logo.svg" alt="Kita logo">
