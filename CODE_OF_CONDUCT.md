@@ -2,110 +2,109 @@
 
 ## Our Commitment
 
-We, as members, contributors, and leaders of this community, are committed to fostering an
-inclusive and respectful environment for everyone, regardless of age, body size, visible
-or invisible disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal appearance,
-race, caste, color, religion, or sexual identity and orientation.
+We, as members, contributors, and leaders of this community, are dedicated to fostering an
+inclusive, respectful, and welcoming environment for everyone, regardless of:
 
-We pledge to act and interact in ways that promote an open, welcoming, diverse, inclusive,
-and healthy community.
+- Age, body size, visible or invisible disability
+- Ethnicity, nationality, race, caste, color
+- Gender identity and expression, sex characteristics
+- Level of experience, education, socio-economic status
+- Personal appearance, religion, sexual identity, or orientation
+
+We pledge to act and interact in ways that promote a positive, diverse, and healthy
+community.
 
 ## Expected Behavior
 
-We expect all community members to adhere to the following behavior standards:
+All community members are expected to uphold the following standards:
 
-- **Empathy and Kindness**: Treat others with empathy and kindness.
-- **Respect for Differences**: Respect differing opinions, viewpoints, and experiences.
-- **Constructive Feedback**: Give and gracefully accept constructive feedback.
-- **Accountability**: Accept responsibility for our mistakes, apologize to those affected,
-  and learn from the experience.
-- **Community Focus**: Prioritize the best interests of the community over personal
-  interests.
+- **Be Kind & Respectful**: Treat others with empathy, kindness, and respect.
+- **Embrace Differences**: Value diverse perspectives and experiences.
+- **Communicate Constructively**: Provide and accept feedback in a professional and
+  constructive manner.
+- **Be Accountable**: Own up to mistakes, apologize when necessary, and learn from them.
+- **Prioritize the Community**: Act in the best interests of the community rather than
+  personal gain.
 
 ## Unacceptable Behavior
 
-Unacceptable behavior includes, but is not limited to:
+The following behaviors are strictly prohibited:
 
-- **Sexualized Behavior**: Use of sexualized language or imagery, and sexual advances of
-  any kind.
-- **Harassment**: Trolling, insulting, derogatory comments, and personal or political
+- **Harassment & Abuse**: Trolling, insults, derogatory comments, personal or political
   attacks.
-- **Public or Private Harassment**: Harassment in public or private settings.
-- **Privacy Violation**: Publishing others' private information without explicit
-  permission.
-- **Inappropriate Conduct**: Any conduct that could reasonably be considered inappropriate
-  in a professional setting.
+- **Sexual Misconduct**: Sexualized language, imagery, unwelcome advances, or any
+  inappropriate sexual conduct.
+- **Privacy Violations**: Sharing private or sensitive information without consent.
+- **Disruptive Behavior**: Deliberate intimidation, excessive interruptions, or any action
+  that disrupts community discussions.
+- **Unprofessional Conduct**: Any behavior that would be deemed inappropriate in a
+  professional setting.
 
 ## Enforcement Responsibilities
 
-Community leaders are responsible for enforcing these standards and taking appropriate and
-fair corrective actions in response to inappropriate, threatening, offensive, or harmful
-behavior.
+Community leaders are responsible for enforcing this Code of Conduct fairly and
+consistently. They have the right to:
 
-Community leaders have the right and responsibility to remove, edit, or reject any
-contributions not aligned with this Code of Conduct, and will communicate reasons for
-moderation decisions when appropriate.
+- Remove, edit, or reject contributions that violate this Code of Conduct.
+- Take appropriate corrective action, including warnings, temporary bans, or permanent
+  removal.
+- Communicate reasons for moderation decisions where appropriate.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces and when representing the
-community in public. Examples of representation include using official email addresses,
-posting via official social media accounts, or acting as appointed representatives at
-events.
+This Code of Conduct applies to all community spaces, including:
 
-## Reporting and Enforcement
+- Online forums, chats, and social media interactions
+- In-person events, meetups, and conferences
+- Any public representation of the community, such as official social media accounts or
+  email communications
 
-Instances of abusive, harassing, or otherwise unacceptable behavior should be reported to
-the community leaders responsible for enforcement at [github@arthur.place](mailto:github@arthur.place). All
-complaints will be reviewed and investigated promptly and fairly.
+## Reporting Violations
 
-Community leaders are obligated to respect the privacy and security of reporters of any
-incidents.
+If you witness or experience unacceptable behavior, please report it to the community
+leaders at **[INSERT CONTACT METHOD]**.
+
+We take all reports seriously and will investigate them promptly while ensuring the
+privacy and security of the reporter.
 
 ## Enforcement Guidelines
 
-Community leaders will follow these Enforcement Guidelines in determining consequences for
-violations:
+Community leaders will follow these guidelines when enforcing this Code of Conduct:
 
-### 1. Correction
+### 1. Warning
 
-- **Community Impact**: Use of inappropriate language or unprofessional behavior.
-- **Consequence**: A private, written warning, providing clarity on the violation and an
-  explanation of why it was inappropriate. A public apology may be requested.
+- **Impact**: Minor violations, such as inappropriate language or unprofessional conduct.
+- **Action**: A private warning with clarification of the issue and request for
+  improvement.
 
-### 2. Warning
+### 2. Temporary Restrictions
 
-- **Community Impact**: A violation through a single incident or series of actions.
-- **Consequence**: A warning with consequences for continued behavior, including no
-  interaction with involved parties for a specified period, both in community spaces and
-  external channels. Violation may result in a temporary or permanent ban.
+- **Impact**: Repeated violations or behavior that disrupts community interactions.
+- **Action**: Temporary restrictions on participation, such as limited posting privileges
+  or time-based bans.
 
 ### 3. Temporary Ban
 
-- **Community Impact**: A serious violation, including sustained inappropriate behavior.
-- **Consequence**: A temporary ban from all community interactions and public
-  communication for a specified period. No interaction with involved parties is allowed
-  during this time. Violation may result in a permanent ban.
+- **Impact**: Serious violations, harassment, or ongoing disruptive behavior.
+- **Action**: A temporary ban from all community activities. Further violations may lead
+  to a permanent ban.
 
 ### 4. Permanent Ban
 
-- **Community Impact**: A pattern of violating community standards, harassment, or
-  aggression.
-- **Consequence**: A permanent ban from all public interactions within the community.
+- **Impact**: Severe or repeated breaches of community standards, including harassment,
+  threats, or malicious intent.
+- **Action**: A permanent ban from all community participation.
 
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.1,
-available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+available at [Contributor Covenant v2.1][v2.1].
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement
-ladder][Mozilla CoC].
+Community Impact Guidelines were inspired by [Mozilla's Code of Conduct Enforcement
+Ladder][Mozilla CoC].
 
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
-[https://www.contributor-covenant.org/translations][translations].
+For frequently asked questions, refer to the [FAQ][FAQ]. Translations are available
+[here][translations].
 
 [homepage]: https://www.contributor-covenant.org
 [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html

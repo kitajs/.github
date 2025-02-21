@@ -1,29 +1,12 @@
 <!--
-Thank you for your pull request. Please provide a description above and review the requirements below.
+Thank you for your pull request! Please provide a brief description above and review the requirements below.
 
 Bug fixes and new features should include tests.
 
-By making a contribution to this project, I certify that:
+By submitting this contribution, I certify that:
 
-* (a) The contribution was created in whole or in part by me and I
-  have the right to submit it under the open source license
-  indicated in the file; or
-
-* (b) The contribution is based upon previous work that, to the best
-  of my knowledge, is covered under an appropriate open source
-  license and I have the right under that license to submit that
-  work with modifications, whether created in whole or in part
-  by me, under the same open source license (unless I am
-  permitted to submit under a different license), as indicated
-  in the file; or
-
-* (c) The contribution was provided directly to me by some other
-  person who certified (a), (b) or (c) and I have not modified
-  it.
-
-* (d) I understand and agree that this project and the contribution
-  are public and that a record of the contribution (including all
-  personal information I submit with it, including my sign-off) is
-  maintained indefinitely and may be redistributed consistent with
-  this project or the open source license(s) involved.
+* (a) I created it entirely or have the right to submit it under the project's open source license.
+* (b) If based on prior work, I have the right to submit it with modifications under the same or an allowed license.
+* (c) If provided by someone else, they certified (a), (b), or (c), and I have not modified it.
+* (d) I understand this contribution is public, and a record of it (including personal details I submit) may be maintained indefinitely and redistributed under the project's license.
 -->

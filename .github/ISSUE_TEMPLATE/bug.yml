@@ -1,5 +1,5 @@
-name: 🐛 Bug report
-description: Create a report to help us improve
+name: 🐛 Bug Report
+description: Report a bug to help us improve
 
 body:
   - type: checkboxes
@@ -7,17 +7,16 @@ body:
     attributes:
       label: Prerequisites
       options:
-        - label: I have written a descriptive issue title
+        - label: I have written a clear issue title
           required: true
-        - label: |
-            I have searched existing issues to ensure the bug has not already been reported
+        - label: I have searched existing issues to avoid duplicates
           required: true
 
   - type: textarea
     id: versions
     attributes:
       label: Versions
-      description: Please list all relevant versions numbers below.
+      description: List all relevant version numbers.
     validations:
       required: true
       
@@ -39,8 +38,8 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Description
-      description: A clear and concise description of what the bug is.
+      label: Bug Description
+      description: Describe the issue clearly.
     validations:
       required: true
 
@@ -49,8 +48,8 @@ body:
     attributes:
       label: Steps to Reproduce
       description: |
-        List of steps, sample code, or a link to code or a project that reproduces the behavior.
-        Make sure you place a stack trace inside a [code (```) block](https://docs.github.com/en/github/writing-on-github/creating-and-highlighting-code-blocks) to avoid linking unrelated issues.
+        Provide steps, sample code, or a link to a project that reproduces the issue.
+        Include stack traces in a [code block](https://docs.github.com/en/github/writing-on-github/creating-and-highlighting-code-blocks).
     validations:
       required: true
 
@@ -58,4 +57,4 @@ body:
     id: expected-behavior
     attributes:
       label: Expected Behavior
-      description: A clear and concise description of what you expected to happen.
+      description: Describe what you expected to happen.

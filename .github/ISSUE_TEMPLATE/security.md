@@ -1,17 +1,15 @@
 ---
 name: 👮 Security Issue
-about: Responsible Disclosure
+about: Report security vulnerabilities responsibly
 ---
 
-## 👮 Responsible Disclosure
+## 🔒 Responsible Disclosure
 
-Do not open issues that might have security implications. It is critical that security
-related issues are reported privately so we have time to address them before they become
-public knowledge.
+Please **do not** open public issues for security-related concerns. Reporting
+vulnerabilities privately allows us to address them before they become public knowledge.
 
-Please read our
-[SECURITY.md](https://github.com/arthurfiorette/.github/blob/main/SECURITY.md) before
-reporting a vulnerability.
+Before reporting, review our
+[SECURITY.md](https://github.com/arthurfiorette/.github/blob/main/SECURITY.md).
 
-Vulnerabilities can also be reported by emailing
+To report a vulnerability, email us at
 [security@arthur.place](mailto:security@arthur.place).

@@ -2,36 +2,44 @@
 
 ## Reporting Security Vulnerabilities
 
-If you discover any security vulnerabilities in our software or services, we appreciate
-your responsible disclosure. Please report them promptly to us by sending an email to
+We take security seriously and appreciate responsible disclosures. If you discover a
+security vulnerability in our software or services, please report it promptly via email at
 [security@arthur.place](mailto:security@arthur.place).
 
-We take security issues seriously and will respond to your report as quickly as possible.
+To help us investigate and address the issue efficiently, please include the following
+details in your report:
 
-## Response Time
+- A clear description of the vulnerability
+- Steps to reproduce the issue
+- Any potential impact you have identified
+- (Optional) Suggested mitigations or fixes
 
-Once we receive your report, we will assess the issue and respond within 48 hours to
-acknowledge that we have received your report.
+We kindly ask that you do not publicly disclose the vulnerability until we have had an
+opportunity to address it.
 
-## Vulnerability Confirmation
+## Response Process
 
-After receiving your report, our team will work diligently to confirm the vulnerability.
-We may reach out to you for additional information or clarification during this process.
+### Investigation & Validation
 
-## Patching Process
+Our security team will investigate the reported issue and may contact you for additional
+information or clarification.
 
-If the security vulnerability is confirmed, we will prioritize its resolution based on the
-complexity and potential impact. Our goal is to release a patch as quickly as possible.
+### Resolution & Patch Deployment
 
-Historically, we have typically released patches within a few days of confirming a
-security vulnerability.
+If the vulnerability is confirmed, we will prioritize a fix based on its severity and
+impact. While resolution times may vary, we strive to release patches as quickly as
+possible—typically within a few days of confirmation.
 
-## Public Disclosure
+### Responsible Disclosure
 
-We believe in responsible disclosure, and we appreciate your discretion in not disclosing
-the security vulnerability to the public until we have had an opportunity to address it.
+Once a fix has been implemented and deployed, we may coordinate a public disclosure if
+necessary. We appreciate your cooperation in keeping vulnerability details private until
+we have resolved the issue.
 
 ## Contact Information
 
-For any security-related inquiries or to report a vulnerability, please contact us at
-[security@arthur.place](mailto:security@arthur.place).
+For security-related inquiries or to report a vulnerability, please contact us at:  
+📧 [security@arthur.place](mailto:security@arthur.place)
+
+We appreciate your efforts in helping us maintain a secure environment. Thank you for your
+responsible disclosure!
