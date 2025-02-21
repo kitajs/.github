@@ -1,7 +1,5 @@
-<h1 align="center">Welcome to the <a href="https://kita.js.org">Kita</a> community!</h1>
-<br/>
 <p align="center">
-  <img src="https://kitajs.org/logo.svg" alt="Kita logo">
+  <a href="https://kitajs.org"><img src="https://kitajs.org/logo.svg" alt="Kita logo"></a>
   <br/><br/>
   Performant and type safe fastify router &mdash;
   <br/>
